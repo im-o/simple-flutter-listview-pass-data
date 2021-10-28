@@ -1,16 +1,9 @@
-# list_view_pass_data
+# List View Pass Data
+tutorial by : [Flutter ListView onTap send selected item data to next screen](https://www.youtube.com/watch?v=qRhWvt-WiAQ&ab_channel=ProtoCodersPoint)
 
-A new Flutter project.
 
-## Getting Started
+**Screenshot result of code :**
+---
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/im-o/simple-flutter-listview-pass-data/blob/master/doc/ss1.jpeg" width="40%" height="40%">
+<img src="https://github.com/im-o/simple-flutter-listview-pass-data/blob/master/doc/ss2.jpeg" width="40%" height="40%">
