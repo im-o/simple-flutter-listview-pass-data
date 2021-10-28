@@ -11,15 +11,15 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   static List<String> fruitNames = [
-    'Apple',
-    'Banana',
-    'Mango',
-    'Orange',
-    'Pineapple'
+    'Alejandro Escamilla',
+    'Danielle MacInnes',
+    'Paul Jarvis',
+    'Tina Rataj',
+    'Lukas Budimaier'
   ];
   static List<String> urlImages = [
     'https://picsum.photos/id/0/5616/3744',
-    'https://picsum.photos/id/1/5616/3744',
+    'https://picsum.photos/id/1001/5616/3744',
     'https://picsum.photos/id/10/2500/1667',
     'https://picsum.photos/id/100/2500/1656',
     'https://picsum.photos/id/1000/5626/3635'
